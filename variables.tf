@@ -19,7 +19,7 @@ variable "tags" {
   type = map
 
   default = {
-    Environment = "Prod"
+    Environment = "Prod-us"
     Dept        = "Engineering"
   }
 }
